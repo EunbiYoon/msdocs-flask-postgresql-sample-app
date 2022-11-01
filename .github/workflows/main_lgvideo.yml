@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'lgvideo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_16FC8546FBC44F338756FCC8E17DD29D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C87B58AB76CC4068A1858D880F1FF4BE }}
